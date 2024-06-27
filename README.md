@@ -1,6 +1,9 @@
 # Titanic Kaggle Competition Project (Ranking Kaggle 233)
 This project is part of the [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) competition on Kaggle. The goal is to predict the survival of passengers on the Titanic using machine learning models. This repository contains the necessary files and instructions to reproduce the analysis and models.
 
+## Link Folder
+All the works are stored in [Final_Project](https://drive.google.com/drive/folders/1013llj_6mRGDwIucsi6vYKfrb8B2hIWp?usp=sharing)
+
 
 ## Data
 The data is given and saved in 'titanic.zip' in folder `dataset`
